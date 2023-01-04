@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Acylation
-- 👀 I’m interested in ...
-- 🌱 I’m currently major in chemistry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Acylation, a junior student major in chemistry.
 
 <!---
 Acylation/Acylation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
