@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Acylation
--  I’m a senior Chemistry major with basic programming skills. I’m currently focused on building plugins for Obsidian.
+I’m a senior Chemistry major with basic programming skills. I’m currently focused on building plugins for Obsidian.
 
 <!---
 Acylation/Acylation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
