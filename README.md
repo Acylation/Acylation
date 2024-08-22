@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Acylation
-I’m a Chem PhD student at Johns Hopkins, currently focused on building plugins for Obsidian as well as figuring out smooth scientific research workflow.
+I’m a Chem PhD student at Johns Hopkins U, currently focused on building plugins for Obsidian as well as figuring out smooth scientific research workflow.
 
 <!---
 Acylation/Acylation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
